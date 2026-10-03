@@ -8,8 +8,6 @@ server.listen(1000, ()=>{
     console.log("Server is running on 100")
 })
 
-
-
 //http is a module which is used to create server
 //call back banaune
-//
+//this one is success success code is 200 ok
